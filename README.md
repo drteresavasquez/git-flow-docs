@@ -2,7 +2,7 @@
 
 The Git Flow is important to our process and to ensuring that the code base stays secure and maintained in a way that decreases bad user experience. This process is adapted from the [gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
-Review the information below on how to get started with Git in the CM code repositories. 
+Review the information below on how to get started with Git in the code repositories. 
 
 ## Table of Contents
 - [Overview](#overview)
